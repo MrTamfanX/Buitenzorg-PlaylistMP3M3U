@@ -3,12 +3,15 @@
 #The command to install, if you ignore it :
 
 $pkg install perl clang make openssl
+
 $cpan install MP3::M3U
 
 Continue to Clone:
 
 $git clone https://github.com/MrTamfanX/Buitenzorg-PlaylistMP3M3U
+
 $cd Buitenzorg-PlaylistMP3M3U
+
 $perl Buitenzorg-song.pl
 
 Thank you for using our tools
@@ -18,12 +21,15 @@ Thank you for using our tools
 #Perintah yang wajib di install, Jika sudah pernah abaikan saja :
 
 $pkg install perl clang make openssl
+
 $cpan install MP3::M3U
 
 Lanjut Ke Clonenya :
 
 $git clone https://github.com/MrTamfanX/Buitenzorg-PlaylistMP3M3U
+
 $cd Buitenzorg-PlaylistMP3M3U
+
 $perl Buitenzorg-song.pl
 
 Terima Kasih Telah Memakai Tools Kami
